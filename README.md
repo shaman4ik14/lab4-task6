@@ -33,3 +33,4 @@
 ---
 > Example of one game session in **log.txt**
 ---
+### For the game download game.py and main.py
