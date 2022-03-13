@@ -32,3 +32,4 @@
 - **my backpack/arm** - view my food or weapons
 ---
 > Example of one game session in **log.txt**
+---
