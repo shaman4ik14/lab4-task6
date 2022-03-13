@@ -1,6 +1,6 @@
 # Wanderer in Lviv
 ---
-## Available streets
+## Available streets:
 ---
 - Stryiska
 - Kozelnytska
@@ -14,7 +14,7 @@ The street can have:
 - friends
 - food 
 - weapon
->First you have 100 health, each new friend adds 10 to your health
+>First you have 100 health, each new friend adds 10 to your health  
 >Each enemy takes 10 of your health during battle
 ---
 >You will win if you complete your journey alive
