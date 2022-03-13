@@ -26,7 +26,7 @@
 - **end of trip** - finish the journey
 - **fight** - start a battle with the enemy
 - **punch** - to punch when the weapon ran out (damage 10)
-- **take arm/support** - pick up weeapon or food from the room
+- **take arm/support** - pick up weeapon or food from the street
 - **take friend** - make a new friend
 - **eat from backpack** - eat something from backpack to heal
 - **my backpack/arm** - view my food or weapons
